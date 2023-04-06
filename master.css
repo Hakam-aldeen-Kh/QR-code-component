@@ -1,0 +1,52 @@
+
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.parent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 230px;
+    padding: 10px 10px 20px 10px;
+    height: 370px;
+    background-color: white;
+    border-radius: 15px;
+    color: sl(220, 15%, 55%);
+    text-align: center;
+    box-shadow: black 1px 1px 24px -18px;
+    
+}
+
+.parent p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-family: 'Cairo', sans-serif;
+font-family: 'Jomhuria', cursive;   
+font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: hsl(218, 44%, 22%);
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Jomhuria', cursive;
+    font-family: 'Outfit', sans-serif;
+}
+
+img {
+    width: 220px;
+    height: 220px;
+    border-radius: 15px;
+}
+
+.attribution {
+    position: absolute;
+    bottom: 5px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
